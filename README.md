@@ -3,6 +3,6 @@
 
 Data Science Master is a lib for all jobs demand of a data scientist
 
-<p>Extraction, filtration, preprocessing, ploting, machine learning and more</p>
+<p>Extraction, filtering, preprocessing, ploting, machine learning and more</p>
 
-<p>The lib born by a need of the creator (Luis Ernandes) because every project that he did it needed to import all libs, making a lot of repetitions in the code and ending up spending more time in convertions, formatation and stuf like that and less with the actual project.</p>
+<p>The lib came by the creator's need (Luis Ernandes) to shorten things up, because every project he had to import the same libs, make a lot of iterations and ending up spending too much time making convertions, formatting and stuff like that doing very little of the actual project.</p>
